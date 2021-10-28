@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
 
-[![JSShou's github stats](https://github-readme-stats.vercel.app/api?username=xuzhongpeng&theme=tokyonight)](https://github.com/xuzhongpeng)
+[![JSShou's github stats](https://github-readme-stats.vercel.app/api?username=xuzhongpeng&theme=chartreuse-dark)](https://github.com/xuzhongpeng)
